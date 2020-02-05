@@ -1,4 +1,4 @@
-# Katas :computer: :fist: :boom:
+# Katas :computer: :punch: :boom:
 
 Code exercises from sites like:
 - https://leetcode.com/
